@@ -30,6 +30,9 @@ Anda dapat mengkompilasi dan menjalankan program seperti ini:
 $ go build wiki.go
 $ ./wiki
 ```
+`go build wiki.go` digunakan untuk mengompilasi file program dan dependensinya. Perintah ini akan menghasilkan file executable atau binary pada folder yang sedang aktif `wiki.exe`.
+
+
 
 akses dengan :
 ```R
