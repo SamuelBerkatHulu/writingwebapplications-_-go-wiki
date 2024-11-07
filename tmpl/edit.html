@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Edit {{.Title}}</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f9;
+      }
+      .container {
+        max-width: 800px;
+        margin: 20px auto;
+        padding: 20px;
+        background: white;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      }
+      h1 {
+        color: #333;
+      }
+      .nav {
+        margin-bottom: 15px;
+      }
+      .nav a {
+        margin-right: 10px;
+        text-decoration: none;
+        color: #0073e6;
+      }
+      .nav a:hover {
+        text-decoration: underline;
+      }
+      textarea {
+        width: 100%;
+        height: 300px;
+        padding: 10px;
+        font-size: 16px;
+        border-radius: 4px;
+        border: 1px solid #ddd;
+        box-sizing: border-box;
+        resize: vertical;
+      }
+      button {
+        background-color: #0073e6;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: #005bb5;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Edit {{.Title}}</h1>
+      <div class="nav">
+        <a href="/view/{{.Title}}">View</a>
+        <a href="/">Home</a>
+      </div>
+      <form action="/save/{{.Title}}" method="POST">
+        <textarea name="body">{{printf "%s" .Body}}</textarea><br />
+        <button type="submit">Save</button>
+      </form>
+    </div>
+  </body>
+</html>
