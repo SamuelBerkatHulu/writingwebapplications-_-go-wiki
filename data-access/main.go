@@ -57,9 +57,9 @@ func main() {
 
     // Add a new album to the database
     albID, err := addAlbum(Album{
-        Title:  "The Modern Sound of Betty Carter",
-        Artist: "Betty Carter",
-        Price:  49.99,
+        Title:  "Samuel Berkat Hulu",
+        Artist: "Samuel",
+        Price:  99.99,
     })
     if err != nil {
         log.Fatal(err)
