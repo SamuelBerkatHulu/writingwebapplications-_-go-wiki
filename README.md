@@ -69,7 +69,9 @@ gunakan perintah
 select * from album
 ```
 untuk untuk menampilkan bentuk tabel.
+
 ![Screenshot 2024-11-21 193857](https://github.com/user-attachments/assets/e40c9120-5d95-4569-94fd-d26deb779a0a)
+
 
 Pada main.go di directori data-access run code tersebut dengan 
 ```R
@@ -88,7 +90,9 @@ New album added: {5 Samuel Berkat Hulu Samuel 99.99}
 ```
 program diatas telah berhasil jalan, dan berhasil menambahkan data baru pada tabel album yang yang terdapat pada database recordings.
 berikut hasilnya.
+
 ![Screenshot 2024-11-21 195123](https://github.com/user-attachments/assets/649a4204-5969-43cd-b899-278ff32d7997)
+
 Run programnya main.go jika ingin menambahkan data baru. 
 
 ## Referensi
