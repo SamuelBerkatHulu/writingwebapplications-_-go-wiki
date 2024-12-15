@@ -38,7 +38,7 @@ Here are some simple tasks you might want to tackle on your own:
 - Spruce up the page templates by making them valid HTML and adding some CSS rules.
 - Implement inter-page linking by converting instances of [PageName] to <a href="/view/PageName">PageName</a>. (hint: you could use regexp.ReplaceAllFunc to do this)
 
-## Menjalakan Program
+### Menjalakan Program
 
 Anda dapat mengkompilasi dan menjalankan program seperti ini:
 
@@ -75,6 +75,8 @@ http://127.0.0.1:8080/view/Example
 - Alat untuk mengedit kode Anda. Editor teks apa pun yang Anda miliki akan berfungsi dengan baik.
 - Terminal perintah. Go berfungsi dengan baik menggunakan terminal apa pun di Linux dan Mac, serta di PowerShell atau cmd di Windows.
 
+
+### Menjalakan Program
 
 Hubungkan Mysql dengan file  `create-tables.sql ` pada promt Mysql Command Line Client. dengan table yang berisikan 5 bari dan 4 kolom seperti konfigurasi awal pada  `create-tables.sql`
 gunakan perintah 
@@ -127,6 +129,8 @@ Terminal perintah. Go berfungsi dengan baik menggunakan terminal apa pun di Linu
 - Alat curl. Di Linux dan Mac, alat ini seharusnya sudah terpasang. Di Windows, alat ini disertakan pada Windows 10 Insider versi 17063 dan yang lebih baru. Untuk versi Windows yang lebih lama, Anda mungkin perlu memasangnya. Untuk informasi selengkapnya, lihat [Tar dan Curl Hadir di Windows .]{https://learn.microsoft.com/en-us/virtualization/community/team-blog/2017/20171219-tar-and-curl-come-to-windows}
 
 
+### Menjalakan Program
+
 Mulai dengan membuat folder nya
 ```R
 $ mkdir web-service-gin
@@ -178,8 +182,10 @@ karena data sudah berhasil ditambahakn maka untuk memastika cek lagi di `localho
 pengecekan dengan URL `localhost:8080/albums`
 ![Screenshot 2024-12-15 105919](https://github.com/user-attachments/assets/5fe3fe2d-393c-43e9-92c5-d82363ce00cf)
 
+
 pengecekan dengan URL `localhost:8080/albums/4`
 ![Screenshot 2024-12-15 105734](https://github.com/user-attachments/assets/41efeca0-ee8a-4a14-bb9e-9fff5a31b985)
+
 
 berikut hasil dari run main.go yang dijalankan akan muncul langsung pada terminal vscodenya
 ![Screenshot 2024-12-15 105833](https://github.com/user-attachments/assets/bd266214-27de-4222-a9f3-a1727d4b31f0)
