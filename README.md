@@ -167,7 +167,6 @@ berikut hasil dari run main.go yang dijalankan akan muncul langsung pada termina
 
 
 
-
 kemudian untuk menambah data ke data albums dengan perintah
 jika menggunakan terminal linux
 ```R
@@ -189,16 +188,15 @@ untuk menambahkan file PORT data albums saya menggunakan CMD dan haslinya
 
 karena data sudah berhasil ditambahakn maka untuk memastika cek lagi di `localhost:8080/albums` dan `localhost:8080/albums/4` jika data sudah berhasil ter `POST`. `POST` merujuk pada menambahkan data.
 
+
 pengecekan dengan URL `localhost:8080/albums`
 ![Screenshot 2024-12-15 105919](https://github.com/user-attachments/assets/5fe3fe2d-393c-43e9-92c5-d82363ce00cf)
 
 
 
 
-
 pengecekan dengan URL `localhost:8080/albums/4`
 ![Screenshot 2024-12-15 105734](https://github.com/user-attachments/assets/41efeca0-ee8a-4a14-bb9e-9fff5a31b985)
-
 
 
 
