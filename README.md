@@ -142,7 +142,7 @@ Buat modul tempat Anda dapat mengelola dependensi.
 ```R
 $ go mod init example/web-service-gin
 ```
-buat file baru dan berinam `main.go` dengan ekstensi `.go`, untuk menmulikan code peintah [berikut kodenya]{https://github.com/SamuelBerkatHulu/writingwebapplications-_-go-wiki/blob/main/web-service-gin/main.go} atau dapat mengaksenya langsung pada directory web-service-gin/main.go
+buat file baru dan berinam `main.go` dengan ekstensi `.go`, untuk menmulikan code peintah [berikut kodenya](https://github.com/SamuelBerkatHulu/writingwebapplications-_-go-wiki/blob/main/web-service-gin/main.go) atau dapat mengaksenya langsung pada directory web-service-gin/main.go
 
 kemudian install go-ginnya dengan perintah
 ```R
