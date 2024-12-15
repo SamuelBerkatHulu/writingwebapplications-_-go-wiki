@@ -156,7 +156,8 @@ jika sudah berhasil anda dapat mengakses pada `localhost:8080/albums` ini akan m
 ![Screenshot 2024-12-15 105459](https://github.com/user-attachments/assets/8e25f0ee-c5c3-4235-a5eb-5d38ed34b24a)
 
 kita juga bisa mengakses hanya pada data albmums tertentu dengan mengarahkan URL ke `localhost:8080/albums/1` angka `1` pada URL ini merujuk pada data albums dengan ID `1`, jadi hasil yang di tampilkan nantinya hanya data album yang ber `ID:1`, dan sama halnya juga jika ingin mengakses data albums dengan `ID` lain
-![Screenshot 2024-12-15 105524](https://github.com/user-attachments/assets/d13fac49-206f-4cb0-a907-2a0ead9350c9)
+![Screenshot 2024-12-15 105524](https://github.com/user-attachments/assets/c3a3ef1f-808b-46b7-af0a-fa58594c243d)
+
 
 
 
