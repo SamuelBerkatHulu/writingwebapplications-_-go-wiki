@@ -155,7 +155,9 @@ go run main.go
 jika sudah berhasil anda dapat mengakses pada `localhost:8080/albums` ini akan menmpikan keseluruhan data albums 
 ![Screenshot 2024-12-15 105459](https://github.com/user-attachments/assets/8e25f0ee-c5c3-4235-a5eb-5d38ed34b24a)
 
-kita juga bisa mengakses hanya pada data albmums tertentu dengan mengarahkan URL ke `localhost:8080/albums/1` angka `1` pada URL ini merujuk pada data albums dengan ID `1`, jadi hasil yang di tampilkan nantinya hanya data album yang ber `ID:1`, dan sama halnya juga jika ingin mengakses data albums dengan `ID` lain![Screenshot 2024-12-15 105524](https://github.com/user-attachments/assets/c3a3ef1f-808b-46b7-af0a-fa58594c243d)
+kita juga bisa mengakses hanya pada data albmums tertentu dengan mengarahkan URL ke `localhost:8080/albums/1` angka `1` pada URL ini merujuk pada data albums dengan ID `1`, jadi hasil yang di tampilkan nantinya hanya data album yang ber `ID:1`, dan sama halnya juga jika ingin mengakses data albums dengan `ID` lain
+
+![Screenshot 2024-12-15 105524](https://github.com/user-attachments/assets/c3a3ef1f-808b-46b7-af0a-fa58594c243d)
 
 
 
@@ -191,12 +193,14 @@ karena data sudah berhasil ditambahakn maka untuk memastika cek lagi di `localho
 
 
 pengecekan dengan URL `localhost:8080/albums`
+
 ![Screenshot 2024-12-15 105919](https://github.com/user-attachments/assets/5fe3fe2d-393c-43e9-92c5-d82363ce00cf)
 
 
 
 
 pengecekan dengan URL `localhost:8080/albums/4`
+
 ![Screenshot 2024-12-15 105734](https://github.com/user-attachments/assets/41efeca0-ee8a-4a14-bb9e-9fff5a31b985)
 
 
