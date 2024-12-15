@@ -123,10 +123,10 @@ Run programnya main.go jika ingin menambahkan data baru.
 - Tulis sebuah pengendali untuk mengembalikan item tertentu.
 
 ### Prasyarat
-- Instalasi Go 1.16 atau yang lebih baru. Untuk petunjuk instalasi, lihat [Menginstal Go .]{https://go.dev/doc/install}
+- Instalasi Go 1.16 atau yang lebih baru. Untuk petunjuk instalasi, lihat [Menginstal Go .](https://go.dev/doc/install)
 - Alat untuk mengedit kode Anda. Editor teks apa pun yang Anda miliki akan berfungsi dengan baik.
 Terminal perintah. Go berfungsi dengan baik menggunakan terminal apa pun di Linux dan Mac, serta di PowerShell atau cmd di Windows.
-- Alat curl. Di Linux dan Mac, alat ini seharusnya sudah terpasang. Di Windows, alat ini disertakan pada Windows 10 Insider versi 17063 dan yang lebih baru. Untuk versi Windows yang lebih lama, Anda mungkin perlu memasangnya. Untuk informasi selengkapnya, lihat [Tar dan Curl Hadir di Windows .]{https://learn.microsoft.com/en-us/virtualization/community/team-blog/2017/20171219-tar-and-curl-come-to-windows}
+- Alat curl. Di Linux dan Mac, alat ini seharusnya sudah terpasang. Di Windows, alat ini disertakan pada Windows 10 Insider versi 17063 dan yang lebih baru. Untuk versi Windows yang lebih lama, Anda mungkin perlu memasangnya. Untuk informasi selengkapnya, lihat [Tar dan Curl Hadir di Windows .](https://learn.microsoft.com/en-us/virtualization/community/team-blog/2017/20171219-tar-and-curl-come-to-windows)
 
 
 ### Menjalakan Program
