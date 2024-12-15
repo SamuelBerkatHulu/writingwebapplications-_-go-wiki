@@ -177,14 +177,23 @@ curl -X POST http://localhost:8080/albums -H "Content-Type: application/json" -d
 untuk menambahkan file PORT data albums saya menggunakan CMD dan haslinya
 ![Screenshot 2024-12-15 105721](https://github.com/user-attachments/assets/b6621ec9-b0b3-427c-80fd-4dd45ccd3d6f)
 
+
+
+
 karena data sudah berhasil ditambahakn maka untuk memastika cek lagi di `localhost:8080/albums` dan `localhost:8080/albums/4` jika data sudah berhasil ter `POST`. `POST` merujuk pada menambahkan data.
 
 pengecekan dengan URL `localhost:8080/albums`
 ![Screenshot 2024-12-15 105919](https://github.com/user-attachments/assets/5fe3fe2d-393c-43e9-92c5-d82363ce00cf)
 
 
+
+
+
 pengecekan dengan URL `localhost:8080/albums/4`
 ![Screenshot 2024-12-15 105734](https://github.com/user-attachments/assets/41efeca0-ee8a-4a14-bb9e-9fff5a31b985)
+
+
+
 
 
 berikut hasil dari run main.go yang dijalankan akan muncul langsung pada terminal vscodenya
