@@ -158,8 +158,15 @@ jika sudah berhasil anda dapat mengakses pada `localhost:8080/albums` ini akan m
 kita juga bisa mengakses hanya pada data albmums tertentu dengan mengarahkan URL ke `localhost:8080/albums/1` angka `1` pada URL ini merujuk pada data albums dengan ID `1`, jadi hasil yang di tampilkan nantinya hanya data album yang ber `ID:1`, dan sama halnya juga jika ingin mengakses data albums dengan `ID` lain
 ![Screenshot 2024-12-15 105524](https://github.com/user-attachments/assets/d13fac49-206f-4cb0-a907-2a0ead9350c9)
 
+
+
+
 berikut hasil dari run main.go yang dijalankan akan muncul langsung pada terminal vscodenya `GET` artinya menampikan data
 ![Screenshot 2024-12-15 105637](https://github.com/user-attachments/assets/cefe0d34-8d17-4694-aade-fd142ccfdfb8)
+
+
+
+
 
 kemudian untuk menambah data ke data albums dengan perintah
 jika menggunakan terminal linux
