@@ -4,6 +4,8 @@
 |-----------------|-----------|------------|
 | Samuel Berkat Hulu | 5025201055 | PBKK-D |
 
+maaf sebelumnya setalah `melakukan push origin main` pada(web-service-gin) saya menimpah semua file yang sudah ada sebelumnya di repository github ini. sehingga semua directory dan filenya ikut terperbaharui, saya juga mencoba untuk mengatur ulang mencoba mereset kembali dengan perintah `git reflog` kemudian `git reset --hard HEAD@{1}` dan `git push origin main --force` hasilnya semua kommmit tereset ulang dari awal dan tidak dapat dipulihkan. 
+
 ## Daftar tutorial:
 1. Writing Web Applications
    - ![image](https://github.com/user-attachments/assets/8d115212-a248-46d4-a19a-b887b36c011d)
